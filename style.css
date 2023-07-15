@@ -1,0 +1,23 @@
+ body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      margin-top: 50px;
+    }
+    
+    #file-input {
+      display: none;
+    }
+    
+    #convert-btn {
+      margin-top: 20px;
+    }
+    
+    #result {
+      margin-top: 50px;
+      border: 1px solid #ccc;
+      padding: 20px;
+      white-space: pre-wrap;
+    }
